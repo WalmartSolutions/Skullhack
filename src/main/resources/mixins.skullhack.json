@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.canon.majik.api.mixin.impl",
+  "refmap": "mixins.skullhack.refmap.json",
+  "mixins": [
+    "MixinMinecraft",
+    "MixinGuiInGame",
+    "MixinNetworkManager",
+    "MixinRenderPlayer",
+    "IEntityLivingBase",
+    "MixinEntityPlayerSP"
+  ]
+}
