@@ -7,6 +7,9 @@ After some time the owner (mousehvh) started to annoy WS by asking stupid questi
 
 Eventually becoming a big pain in the ass which lead to the leak.
 
+# Warning
+cheat might not build because whoever made the gradle is ass
+
 # Funnies
 <img src="https://cdn.discordapp.com/attachments/1139492863537860689/1150009401961349170/image.png">
 <img src="https://cdn.discordapp.com/attachments/1139492863537860689/1150009728819269632/image.png">
